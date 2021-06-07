@@ -1,5 +1,3 @@
----
-title: Home
----
+
 
 the file
