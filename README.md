@@ -1,4 +1,6 @@
-
+---
+title: test
+---
 
 # micro-down
 
@@ -8,7 +10,7 @@
   [view on GitHub](https://github.com/shynrou/micro-down)
 
 ```ruby
-def print_hi(name)
+df print_hi(name)
   puts "Hi, #{name}"
 end
 print_hi('Tom')
