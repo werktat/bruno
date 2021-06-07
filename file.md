@@ -1,3 +1,7 @@
+---
+layout: home
+title: TestBlog
+---
 Marked - Markdown Parser
 ========================
 
