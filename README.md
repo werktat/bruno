@@ -1,24 +1,12 @@
-
-""" center
-![micro-down logo](https://raw.githubusercontent.com/commit-intl/micro-down/master/microdown.svg)
-
--------------------------
 # micro-down
-=========================
-"""
+
+
 
 **1.3kB** JavaScript markdown parser
   [view on GitHub](https://github.com/shynrou/micro-down)
 
-""" navigation
-[Inline Markup](#inline)
-[Blocks](#blocks)
-[Media](#media)
-[Lists](#lists)
-[Table](#table)
-"""
 
-#[inline]
+
 ## Inline Markup
 
 _italic:_ \*italic\* \_italic\_
@@ -38,13 +26,12 @@ code: `code`
 ~~~deleted:~~~ `~~~deleted~~~`
 
 
-#[blocks]
 ## Blocks
 
-
-""" center gray
-Div Blocks are surrounded by """ and can receive a classes.
-"""
+``` not_javascript
+Pre
+formatted
+```
 
 ``` not_javascript
 Pre
@@ -65,7 +52,8 @@ Pre
 > "Blocks in general support _~inline~_ __styles__"
 
 
-#[media]
+
+
 ## Media
 ### Links
 ``` markdown
@@ -87,13 +75,6 @@ combined:
 ```
 [![github](https://raw.githubusercontent.com/commit-intl/micro-down/master/microdown.svg micro-down logo)](http://github.com Just a hover text!)
 
-### IFrames
-``` markdown
-&[340,170,0 project-card](https://github.com/commit-intl/micro-down)
-```
-&[340,170,0 project-card](https://github.com/commit-intl/micro-down)
-
-#[lists]
 ## lists
 
 1. Lists can be structured and layered
@@ -106,7 +87,6 @@ combined:
    and can be quite handy
 
 
-#[table]
 ## Table
 
 |-this   -|-is     -|-a  -
