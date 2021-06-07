@@ -4,6 +4,8 @@ title: TestBlog
 ---
 # micro-down
 
+* toc
+{:toc}
 
 [Root File]({{site.baseurl}}/file)
 
