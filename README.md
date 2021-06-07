@@ -13,7 +13,7 @@ print_hi('Tom')
 #=> prints 'Hi, Tom' to STDOUT.
 ```
 
-```
+```javascript
 function sayHello(name) {
   if (!name) {
     console.log('Hello World');
@@ -22,6 +22,12 @@ function sayHello(name) {
   }
 }
 ```
+
+{% highlight ruby linenos %}
+def foo
+  puts 'foo'
+end
+{% endhighlight %}
 
 ## Inline Markup
 
