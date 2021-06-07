@@ -5,7 +5,13 @@
 **1.3kB** JavaScript markdown parser
   [view on GitHub](https://github.com/shynrou/micro-down)
 
-
+```ruby
+def print_hi(name)
+  puts "Hi, #{name}"
+end
+print_hi('Tom')
+#=> prints 'Hi, Tom' to STDOUT.
+```
 
 ## Inline Markup
 
