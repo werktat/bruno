@@ -7,10 +7,8 @@ title: TestBlog
 This is an abstract of the article. It serves the purpose to
 show a quick overview.
 
-<details>
-	<summary>Contents</summary>
+#### Contents
 {:toc}
-</details>
 
 [Root File]({{site.baseurl}}/file)
 	
