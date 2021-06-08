@@ -15,7 +15,13 @@ show a quick overview.
 {:toc}
 
 [Root File]({{site.baseurl}}/file)
-	
+
+<ul>
+{% for item in site.data.yamldata.bikes %}
+<li>{{item.title}}</li>
+{% endfor %}
+</ul>
+
 # Jekyll Blog Demo 🧪 📝 🚀
 > Starter for a static website or blog - built with Jekyll, a minimal theme and GH Pages
 
