@@ -1,7 +1,18 @@
 ---
 layout: home
-title: TestBlog
+title: my circles
+circles:
+ - {x:10, y:10, color: "red"}
+ - {x:20, y:20, color: "green"}
+ - {x:30, y:30, color: "blue"}
 ---
+
+<svg viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+{% for circle in page.circles %}
+  <circle cx="{{ circle.x }}" cy="{{ circle.y }}" r="10" color="{{ circle.color }}"/>
+{% endfor %}
+</svg>
+
 Marked - Markdown Parser
 ========================
 
