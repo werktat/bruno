@@ -8,6 +8,7 @@ This is an abstract of the article. It serves the purpose to
 show a quick overview.
 
 #### Contents
+* Do not remove this line (it will not be displayed)
 {:toc}
 
 [Root File]({{site.baseurl}}/file)
