@@ -22,13 +22,13 @@ show a quick overview.
 {% endfor %}
 </ul>
 
-  <ol reversed class="post-list">
+  <ol>
     {% for post in site.posts %}
       <li>
-        <span class="post-meta">{{ post.date | date: "%-d %b %Y" }}</span>
+        <span>{{ post.date | date: "%-d %b %Y" }}</span>
 
         <h2>
-          <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title }}</a>
+          <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
         </h2>
       </li>
     {% endfor %}
