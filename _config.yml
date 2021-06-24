@@ -1,5 +1,8 @@
 markdown: kramdown
 
+collections:
+  - chapters
+ 
 kramdown:
   # fenced code blocks
   input: GFM
