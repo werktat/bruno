@@ -1,6 +1,6 @@
 ---
 layout: home
-title:  "AHello world"
+title:  "AaHello world"
 ---
 
 # A
