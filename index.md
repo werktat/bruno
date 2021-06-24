@@ -23,10 +23,8 @@ show a quick overview.
 </ul>
 
   <ol>
-    {% for post in site.posts %}
+    {% for post in site.chapters %}
       <li>
-        <span>{{ post.date | date: "%-d %b %Y" }}</span>
-
         <h2>
           <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
         </h2>
