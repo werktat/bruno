@@ -1,7 +1,6 @@
 ---
 layout: home
-title:  "Hello world"
-date: 2017-06-05
+title:  "AHello world"
 ---
 
 # A
