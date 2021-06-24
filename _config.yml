@@ -3,6 +3,9 @@ markdown: kramdown
 collections:
   chapters:
     output: true
+    order:
+      - b.md
+      - a.md
 
 kramdown:
   # fenced code blocks
