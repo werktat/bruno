@@ -2,7 +2,7 @@
 layout: default
 title: TestBlog
 ---
-# micro-down3
+# micro-down4
 {:.no_toc}
 
 This is an abstract of the article. It serves the purpose to
@@ -23,11 +23,12 @@ show a quick overview.
 </ul>
 
   <ol>
-    {% for post in site.chapters %}
+    {% assign items = site.chapters | sort: 'weight' %}
+    {% for post in items %}
       <li>
-        <h2>
+        
           <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
-        </h2>
+        
       </li>
     {% endfor %}
   </ol>
