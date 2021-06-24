@@ -1,6 +1,6 @@
 ---
-title:  "Hello world1"
-date: 2018-06-05
+layout: home
+title:  "BHello world1"
 ---
 
 # B
