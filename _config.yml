@@ -1,10 +1,7 @@
 markdown: kramdown
 
 collections:
-  chapters:
-    order:
-      - b.md
-      - a.md
+  chapters
 
 kramdown:
   # fenced code blocks
