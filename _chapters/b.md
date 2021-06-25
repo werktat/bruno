@@ -1,7 +1,7 @@
 ---
 layout: home
 title:  "BHello world1"
-weight: 10
+weight: 30
 ---
 
 # B
