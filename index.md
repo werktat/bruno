@@ -15,6 +15,8 @@ show a quick overview.
 {:toc}
 
 [Root File]({{site.baseurl}}/file)
+[Contents](./file)
+
 
 <ul>
 {% for item in site.data.yamldata.bikes %}
