@@ -197,4 +197,3 @@ combined:
 | fancy you know | `![micro-down logo](https://raw.githubusercontent.com/commit-intl/micro-down/master/microdown.svg)` | `[micro-down logo](https://raw.githubusercontent.com/commit-intl/micro-down/master/microdown.svg)`
 
 
-
