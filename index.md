@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: contents
 title: TestBlog
 ---
 # micro-down4
