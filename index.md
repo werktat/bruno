@@ -8,6 +8,15 @@ title: TestBlog
 This is an abstract of the article. It serves the purpose to
 show a quick overview.
 
+<!-- Random ID generation -->
+{% assign min = 0 %}
+{% assign max = 1000 %}
+{% assign diff = max | minus: min %}
+{% assign randomNumber = "now" | date: "%N" | modulo: diff | plus: min %}
+<!-- /Random ID generation -->
+
+{{randomNumber}}
+
 ## Table of Contents
 {:.no_toc}
 
