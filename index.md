@@ -135,12 +135,12 @@ code: `code`
 
 ## Blocks
 
-``` not_javascript
+```not_javascript
 Pre
 formatted
 ```
 
-``` not_javascript
+```not_javascript
 Pre
   formatted
     blocks
@@ -196,7 +196,8 @@ combined:
 
 ## Table
 
-|-this   -|-is     -|-a  -
+| this    | is      | a
+---------------------------
 | really  | useless | table
 | even more | useless | row
 
