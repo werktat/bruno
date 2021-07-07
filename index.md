@@ -44,6 +44,11 @@ show a quick overview.
 
 <svg viewBox="0 0 80 80" fill="none" xmlns="http://www.w3.org/2000/svg" width="80" height="80" colors="#a3a948,#edb92e,#f85931,#ce1836,#009989" name="Felisa Rincon" size="80"><mask id="mask__bauhaus" maskUnits="userSpaceOnUse" x="0" y="0" width="80" height="80"><rect width="80" height="80" rx="40" fill="#fff"></rect></mask><g mask="url(#mask__bauhaus)"><rect width="80" height="80" rx="40" fill="#a3a948"></rect><rect x="10" y="30" width="80" height="80" fill="#edb92e" transform="translate(4 -4) rotate(330 40 40)"></rect><circle cx="40" cy="40" fill="#f85931" r="16" transform="translate(18 18)"></circle><line x1="0" y1="40" x2="80" y2="40" stroke-width="2" stroke="#ce1836" transform="translate(0 0) rotate(300 40 40)"></line></g></svg>
 
+| a  | b  | c  | d  | e  |
+|---|---|---|---|---|
+| 1  | 2  | 3  | 4  | 5  |
+| 6  | 7  | 8  | 9  | 10  |
+
 # Jekyll Blog Demo 🧪 📝 🚀
 > Starter for a static website or blog - built with Jekyll, a minimal theme and GH Pages
 
