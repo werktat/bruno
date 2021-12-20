@@ -36,9 +36,16 @@ h1, h2, strong {
   </head>
   <body>
     <main>
-      <article>
-        {{ content }}
-      </article>
+      <ol>
+    {% assign items = site.chapters | sort: 'weight' %}
+    {% for post in items %}
+      <li>
+        
+          <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+        
+      </li>
+    {% endfor %}
+  </ol>
     </main>
   </body>
 </html>
