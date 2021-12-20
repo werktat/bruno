@@ -36,16 +36,16 @@ h1, h2, strong {
   </head>
   <body>
     <main>
-      <ol>
+      <ul>
     {% assign items = site.chapters | sort: 'weight' %}
     {% for post in items %}
       <li>
-        
+     {{ forloop.index  }}: {{ forloop.index0 }}   
           <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
         
       </li>
     {% endfor %}
-  </ol>
+  </ul>
     </main>
   </body>
 </html>
