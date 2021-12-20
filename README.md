@@ -1,6 +1,6 @@
-# Simplyminimal
+# Bruno
 
-## A jekyll remote theme
+## A simple and minimal jekyll remote theme
 
 ### How to get started
 
