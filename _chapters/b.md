@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: default
 title:  "BHello world1"
 weight: 30
 ---
