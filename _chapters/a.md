@@ -1,4 +1,5 @@
 ---
+layout: article
 title:  "AaHello world"
 weight: 20
 ---
