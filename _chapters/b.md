@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: article
 title:  "BHello world1"
 weight: 30
 ---
