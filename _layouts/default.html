@@ -109,17 +109,7 @@ td {
   </head>
   <body>
     <main>
-      Test
-      <ol>
-    {% assign items = site.chapters | sort: 'weight' %}
-    {% for post in items %}
-      <li>
-        
-          <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
-        
-      </li>
-    {% endfor %}
-  </ol>
+      
   <article>
     {{ content }}
     </article>
