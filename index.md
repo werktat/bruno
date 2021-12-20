@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: home
 title: TestBlog
 ---
 # micro-down5
