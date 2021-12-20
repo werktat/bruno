@@ -21,9 +21,9 @@ collections:
 In markdown files create frontmatter and use
 one of the following layouts:
 
-* contents
+* home
 * article
-* articlewithcode
+* codearticle
 
 For example `file.md`
 
