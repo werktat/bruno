@@ -9,7 +9,7 @@
 3. Create `_config.yml`
 
 ```yaml
-remote_theme: werktat/simplyminimal
+remote_theme: werktat/bruno
 
 collections:
   chapters:
