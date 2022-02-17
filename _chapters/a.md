@@ -1,5 +1,5 @@
 ---
-layout: 339
+layout: article
 title:  "A md"
 weight: 20
 ---
