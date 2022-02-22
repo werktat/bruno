@@ -1,6 +1,7 @@
 ---
 layout: article
 title:  "Withcode"
+hasCode: true
 weight: 2
 ---
 # WithCode
