@@ -1,5 +1,10 @@
 markdown: kramdown
 
+defaults:
+  -
+    values:
+      layout: "default"
+
 collections:
   chapters:
     output: true
