@@ -8,7 +8,7 @@ weight: 2
 
 ## code
 
-```
+```java
 class Products {
     public double Price { get; set; } 
     public double Discount { get; set; } 
